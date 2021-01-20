@@ -10,4 +10,4 @@ If you want to practice in other time signatures, the code can be tailored to ma
 
 [Metronome in action (video)](https://www.youtube.com/watch?v=7WuJovUj4kk&ab_channel=Afrotechmods)
 
-[Link to full tutorial.](https://create.arduino.cc/projecthub/kzra/led-matrix-metronome-767e3c)
+[Link to full tutorial](https://create.arduino.cc/projecthub/kzra/led-matrix-metronome-767e3c)
